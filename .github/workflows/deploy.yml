@@ -1,4 +1,4 @@
-name: Deploy SpeakEasy USA to GitHub Pages
+name: Deploy MamaLingo to GitHub Pages
 
 on:
   push:

@@ -1,4 +1,4 @@
-# SpeakEasy USA
+# MamaLingo
 
 A warm, mobile-first travel companion for Korean speakers visiting the United States. Select what you want to say in Korean, hear natural English, or show a large English sentence to another person. No microphone, quizzes, account, or backend is needed.
 
@@ -24,11 +24,14 @@ Browser tests cover desktop and mobile, sentence building, simulated speech API 
 
 ## Features
 
+- Warm MamaLingo branding, brighter pastel destination cards, and large Korean controls.
+- Ten airport builders for check-in, baggage, security, finding gates, boarding, onboard requests, transfers, baggage claim, lost baggage, and help.
+- Ten immigration question builders, an 18-question listening library, custom travel dates/regions, and a personalized preparation card with one-at-a-time speech practice. Draft selections and saved card snapshots persist separately in the browser. Existing favorites from the previous version migrate without being removed.
 - Nine destinations: airport, immigration, café, restaurant, shopping, souvenirs, hotel, transportation, emergency help.
-- Café order builder with temperature, size, milk, extras, and takeaway choices.
+- Café order builder with temperature, size, milk, extras, takeaway, and decaf choices.
 - Restaurant table, reservation name, meal, requests, problems, payment, and takeaway flows.
-- Immigration purpose, stay length, accommodation, and common officer questions.
-- Shopping item, size, and gift choices.
+- Immigration purpose, stay length, accommodation, people visited, travel companions, return flights, previous visits, occupation, daughter details, and travel plans.
+- Shopping and souvenir item, size, gift recipient, and color choices; hotel check-in and requests; transportation destinations and requests; restaurant allergy/dietary requests.
 - Listening phrases and interactive conversations for immigration, café, restaurant, hotel, and shopping.
 - Normal/slow American English browser text-to-speech, large phrase display, and local favorites grouped by destination.
 - Locally bundled fonts, custom SVG illustrations, responsive layouts, keyboard-accessible dialogs, and reduced-motion support.
